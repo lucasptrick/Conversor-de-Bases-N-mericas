@@ -24,3 +24,7 @@
 
 # Info. do Sistema Operacional
 ➜ Identificador de SO.
+
+
+# LançadorDeVídeos.py
+➜ Lançador de vídeos do Youtube em horário marcado!
