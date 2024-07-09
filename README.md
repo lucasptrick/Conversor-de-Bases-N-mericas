@@ -1,4 +1,4 @@
-# Conversor-de-Bases-Numericas
+# ConversorBasesNúmericas.ipynb
 ➜ Conversor de bases numéricas entre as seguintes bases:
 >> Base binária
 >> 
