@@ -16,3 +16,6 @@
 
 # Jogo Adivinhação.py
 ➜ Jogo de adivinhação de número inteiro em python.
+
+# Tabuada.py
+➜ Tabuada de multiplicação(1 à 10) de qualquer número informado:
