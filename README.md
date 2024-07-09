@@ -12,3 +12,7 @@
 >> Subtração -
 >> Multiplicação -
 >> Divisão
+
+
+# Jogo Adivinhação.py
+➜ Jogo de adivinhação de número inteiro em python.
